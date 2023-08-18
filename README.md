@@ -16,8 +16,6 @@
 
 💬 Ask me about **Python, C# and Flutter**
 
-📫 How to reach me **didierganthierperan@gmail.com**
-
 ⚡ Fun fact **I love God and I like playing the piano**
  
  
