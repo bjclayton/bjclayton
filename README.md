@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **Typescript and Cloud Computing**
 
-👯 I'm looking for **an internship**
+👯 I'm looking for **internship**
 
 💬 Ask me about **Python, C# and Flutter**
 
