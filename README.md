@@ -14,6 +14,8 @@
 
 👯 I'm looking for **internship**
 
+📝 I regularly write articles on [Medium](https://medium.com/@jclaytonblanc)
+
 💬 Ask me about **Python, C# and Flutter**
 
 ⚡ Fun fact **I love God and I like playing the piano**
