@@ -10,13 +10,13 @@
 
 🔭 I’m currently working on a [Chat App](https://github.com/jcblanc2/Chatterly.git)
 
-🌱 I’m currently learning **Typescript and Cloud Computing**
+🌱 I’m currently learning **Cloud Computing**
 
 👯 I'm looking for **internship**
 
 📝 I regularly write articles on [Medium](https://medium.com/@jclaytonblanc)
 
-💬 Ask me about **Python, React and Flutter**
+💬 Ask me about **React, Flutter and Python**
 
 ⚡ Fun fact **I love God and I like playing the piano**
  
