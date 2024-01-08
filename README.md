@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Jonh+Clayton+Blanc!;" />
 </h1>
 
-<h3 align="center">A passionate software developer who enjoys turning complex problems into simple code</h3>
+<h3 align="center">A passionate software developer from Haiti 🇭🇹</h3>
 
 <br/>
 
