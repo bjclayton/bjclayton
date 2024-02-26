@@ -8,7 +8,7 @@
 
 <br/>
 
-🔭 I’m currently working on a [Chat App](https://github.com/jcblanc2/Chatterly.git)
+🔭 I’m currently working on a [CreoleNLTK](https://github.com/jcblanc2/CreoleNLTK)
 
 🌱 I’m currently learning **Cloud Computing**
 
@@ -16,7 +16,7 @@
 
 📝 I regularly write articles on [Medium](https://medium.com/@jclaytonblanc)
 
-💬 Ask me about **React, Flutter and Python**
+💬 Ask me about **React and Python**
 
 ⚡ Fun fact **I love God and I like playing the piano**
  
