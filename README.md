@@ -33,7 +33,7 @@
 
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,python,docker,figma,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=react,python,docker,tailwind,flutter" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,cs,azure" />
 </div>
 
