@@ -8,7 +8,7 @@
 
 <br/>
 
-🔭 I’m currently working on a [CreoleNLTK](https://github.com/jcblanc2/CreoleNLTK)
+🔭 I’m currently working on a **Predika**
 
 🌱 I’m currently learning **Cloud Computing**
 
