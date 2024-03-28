@@ -16,7 +16,7 @@
 
 📝 I regularly write articles on [Medium](https://medium.com/@jclaytonblanc)
 
-💬 Ask me about **React and Python**
+💬 Ask me about **Node.js, Python and React**
 
 ⚡ Fun fact **I love God and I like playing the piano**
  
