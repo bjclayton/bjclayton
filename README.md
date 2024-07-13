@@ -7,18 +7,19 @@
 
 <br/>
 
-🔭 I’m currently working on **Predika**
-
-🌱 I’m currently learning **Cloud Computing**
-
-👯 I'm looking for **internship**
-
 📝 I regularly write articles on [Medium](https://medium.com/@jclaytonblanc)
 
 💬 Ask me about **Node.js, Python and React**
 
+ <!---
+ 🔭 I’m currently working on **Predika**
+
+ 🌱 I’m currently learning **Cloud Computing**
+
+ 👯 I'm looking for **internship**
+
 ⚡ Fun fact **I love God and I like playing the piano**
- 
+--->
  
 <div align="left"> 
   <a href="mailto:jclaytonblanc@gmail.com">
@@ -32,8 +33,8 @@
 
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,adonis,python,react,docker,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,linux,cs,azure,jest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,adonis,python,react,tailwind,jest" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,azure,mysql,postgres,redis," />
 </div>
 
 
