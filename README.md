@@ -33,8 +33,8 @@
 
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=express,adonis,python,react,tailwind,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,azure,mysql,postgres,redis," />
+  <img src="https://skillicons.dev/icons?i=express,python,java,react,tailwind,redux,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,mysql,postgres,redis," />
 </div>
 
 
