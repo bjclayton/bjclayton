@@ -11,10 +11,9 @@
 
 💬 Ask me about **Node.js, Python and React**
 
- <!---
+ 🌱 I’m currently learning **Golang**
+  <!---
  🔭 I’m currently working on **Predika**
-
- 🌱 I’m currently learning **Cloud Computing**
 
  👯 I'm looking for **internship**
 
@@ -33,8 +32,8 @@
 
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=express,python,java,react,tailwind,redux,aws" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,mysql,postgres,redis," />
+  <img src="https://skillicons.dev/icons?i=golang,python,typescript,java,express,react,tailwind,redux" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,azure,mysql,postgres,redis," />
 </div>
 
 
