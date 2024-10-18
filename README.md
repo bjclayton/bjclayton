@@ -11,7 +11,7 @@
 
 💬 Ask me about **Node.js, Python and React**
 
- 🌱 I’m currently learning **Golang**
+ 🌱 I’m currently learning **Go**
   <!---
  🔭 I’m currently working on **Predika**
 
