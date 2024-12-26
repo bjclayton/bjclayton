@@ -9,7 +9,7 @@
 
 📝 I regularly write articles on [Medium](https://medium.com/@jclaytonblanc)
 
-💬 Ask me about **Node.js and Python**
+💬 Ask me about **Java, Node.js and Python**
 
  🌱 I’m currently learning **Go**
   <!---
