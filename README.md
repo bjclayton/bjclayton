@@ -11,7 +11,7 @@
 
 💬 Ask me about **Java, Node.js and Python**
 
- 🌱 I’m currently learning **Go**
+ 🌱 I’m currently learning **Go and Cloud Computing**
   <!---
  🔭 I’m currently working on **Predika**
 
